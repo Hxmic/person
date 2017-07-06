@@ -9,7 +9,7 @@
 # 个人信息
 
  - 牛明鑫/男/1995
- - 本科/北华大学软件工程
+ - 本科/北华大学/软件工程
  - 工作年限：无
  - 技术博客：https://my.oschina.net/u/2929937
  - Github：https://github.com/Hxmic
