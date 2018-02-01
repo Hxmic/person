@@ -12,7 +12,6 @@
 
  - 牛明鑫/男/1995
  - 2014-9-1~2018-7-1/本科/北华大学/软件工程
- - 工作年限：实习四个月
  - 技术博客：https://my.oschina.net/u/2929937
  - Github：https://github.com/Hxmic
  - 期望职位：Web前端程序员
