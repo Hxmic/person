@@ -6,14 +6,13 @@
 # 个人信息
  - 牛明鑫/男/1995
  - 2014-9-1~2018-7-1/本科/北华大学/软件工程
- - 技术博客：https://my.oschina.net/u/2929937
  - 期望职位：Web前端
 # 技能清单
 以下均为我熟悉的技能
-- 编程语言：html/javaScript/css
-- 前端框架：Bootstrap/jQuery/HTML5/Vue.js
+- 编程语言：html/javaScript/css/TypeScript
+- 前端框架：Bootstrap/jQuery/HTML5/Vue.js/Nuxt/Element-Ui
 - 开发工具：Atom/WebStorm/HBuilder/idea/VSCode
-- 前端工具：gulp/less
+- 前端工具：gulp/less/webpack
 - 数据库相关：MySQL
 - 版本管理：Git
 
