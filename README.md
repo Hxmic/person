@@ -16,6 +16,16 @@
  - 期望职位：web前端工程师
  - 期望城市：北京
 
+# 技能清单
+
+以下均为我熟悉的技能	以下均为我熟悉的技能
+- 编程语言：html/javaScript/css	- 编程语言：html/javaScript/css/TypeScript
+- 前端框架：Bootstrap/jQuery/HTML5/Vue.js	- 前端框架：Bootstrap/jQuery/HTML5/Vue.js/Nuxt/Element-Ui
+- 开发工具：Atom/WebStorm/HBuilder/idea/VSCode	- 开发工具：Atom/WebStorm/HBuilder/idea/VSCode
+- 前端工具：gulp/less	- 前端工具：gulp/less/webpack
+- 数据库相关：MySQL	- 数据库相关：MySQL
+- 版本管理：Git
+
 # 工作经历
 
 ## 2018年6月 ~ 至今 | 东方国信
@@ -80,20 +90,7 @@
 1.通过vue参与快头条红包的开发，实现兼容手机端的页面。
 2.参与端外的分享页面。
 3.通过vue结合webpack、express开发项目。
-  
-# 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
-
-以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+ 
       
 ---      
 # 致谢
